@@ -3,7 +3,7 @@
 // informar os dias de aula para a nossa turma.
 
 function verificaDiaAula(diaDaSemana) {
-    switch(diaDaSemana) {
+    switch (diaDaSemana) {
         case 'quarta':
             return 'é dia de revisão'
         case 'sábado':
