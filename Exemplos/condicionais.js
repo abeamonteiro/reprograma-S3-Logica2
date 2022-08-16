@@ -9,7 +9,7 @@
 // console.log(comprovaMaiorIdade(6)) //menor
 // console.log(comprovaMaiorIdade(46)) //maior
 
-// media e título
+//media e título
 
 function resultadoBoletim (nota1, nota2, nota3, nota4) {
         const media = (nota1 + nota2 + nota3 + nota4)/4
