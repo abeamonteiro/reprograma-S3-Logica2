@@ -2,15 +2,10 @@
 # Lógica Aplicada - Estrutura condicional, Escopo e Função 🚀
 ## Resolução de Problemas/Lógica aplicada e JavaScript (sintaxe básica)**
 
-- Aprendizado de funções e escopo;
-- Aprendizado de estrutura condicional.
-
 <br>
 <br>
-Este repositório corresponde à terceira semana de aula no curso em BackEnd pelo projeto Todas em Tech da iniciativa Reprograma. Aqui damos continuidade à sequência de aulas de Lógica em Programação com a professora Simara Conceição. A partir do readme apresentado no
-repositório da aula é possível observar detalhadamente os assuntos apreendidos.
-
-Este repositório contém as atividades e exemplos por meio dos quais aprendi o uso de funções e estruturas condicionais. Os exemplos desenvolvidos estão descritos abaixo e na atividade individual foi desenvolvido o seguinte exercício:
+Este repositório corresponde à terceira semana de aula no curso em BackEnd pelo projeto Todas em Tech da iniciativa Reprograma. Aqui damos continuidade à sequência de aulas de lógica aplicada à programação com a professora Simara Conceição. Os assuntos apreendidos nesta semana foram funções, escopo e estruturas condicionais.
+Este repositório contém as atividades e exemplos por meio dos quais aprendi os conteúdos. Na atividade individual foi desenvolvido o seguinte exercício:
 
 1 - Elabore um algoritmo que receba um número (1-7) e devolva o dia da semana 
 correspondente.
@@ -190,7 +185,7 @@ Atenção para as palavras reservadas case, break e default.
 
 <br>
 
-#### 4. **Exemplos:**
+#### 4. **Exemplos desenvolvidos em sala:**
 
 | Exemplo 01 | Descrição |
 | --- | --- |
