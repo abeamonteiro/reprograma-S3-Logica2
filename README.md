@@ -185,7 +185,7 @@ Atenção para as palavras reservadas case, break e default.
 
 <br>
 
-#### 4. **Exemplos desenvolvidos em sala:**
+## **Exemplos desenvolvidos em sala:**
 
 | Exemplo 01 | Descrição |
 | --- | --- |
